@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nama Wisata</th>
+                <th>Deskripsi</th>
+                <th>Lokasi</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>5</td><td>Pulau Padar</td><td>Pulau dengan pemandangan ikonik tiga teluk yang berbeda warna lautnya.</td><td>Nusa Tenggara Timur</td></tr><tr><td>6</td><td>Pink Beach</td><td>Pantai unik dengan pasir berwarna merah muda yang langka di dunia.</td><td>Nusa Tenggara Timur</td></tr><tr><td>7</td><td>Pulau Komodo</td><td>Habitat asli hewan komodo, satwa purba yang dilindungi.</td><td>Nusa Tenggara Timur</td></tr><tr><td>8</td><td>Labuan Bajo</td><td>Kota pelabuhan kecil yang menjadi pintu gerbang menuju Taman Nasional Komodo.</td><td>Nusa Tenggara Timur</td></tr><tr><td>9</td><td>Desa Wae Rebo</td><td>Desa adat di pegunungan dengan rumah kerucut tradisional yang ikonik.</td><td>Nusa Tenggara Timur</td></tr><tr><td>10</td><td>Lembah Bajawa</td><td>Daerah dataran tinggi dengan tradisi megalitikum dan budaya unik.</td><td>Flores, Nusa Tenggara Timur</td></tr>        </tbody>
+    </table>
+</body>
+</html>
